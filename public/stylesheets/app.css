@@ -1,0 +1,24 @@
+.thumbnail img {
+	width:100%;
+}
+
+.thumbnail {
+	padding:0;
+}
+
+.thumbnail .caption-full{
+	padding: 9px;
+}
+
+.deleteForm{
+	display: inline;
+}
+
+.logreg_style {
+	text-align: center;
+}
+
+.logregform_style{
+	width: 30%; 
+	margin: 25px auto;
+}
